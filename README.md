@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Diyan%20Ehsan%20Syed&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Junior%20Flutter%20Developer%20%7C%20DevOps%20Learner%20%7C%20CS%20Student&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Diyan%20Ehsan%20Syed&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Junior%20Flutter%20Developer%20%7C%20DevOps%20Learner%20%7C%20CS%20Graduate&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00E7FF&center=true&vCenter=true&width=850&lines=Building+beautiful+mobile+apps+with+Flutter;Learning+Linux%2C+Bash%2C+Docker+%26+CI%2FCD;Exploring+Cloud%2C+Firebase+%26+AWS+EC2;Turning+ideas+into+real-world+software" alt="Typing SVG" />
 
@@ -33,7 +33,7 @@
 
 <img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-I am **Diyan Ehsan Syed**, a **Computer Science student from Islamabad, Pakistan**, focused on building practical software with a strong interest in **Flutter mobile development, cloud-backed applications, automation, and DevOps**.
+I am **Diyan Ehsan Syed**, a **recent Computer Science graduate from Islamabad, Pakistan**, focused on building practical software with a strong interest in **Flutter mobile development, cloud-backed applications, automation, and DevOps**.
 
 I started by building real-world mobile apps using **Flutter, Firebase, REST APIs, and responsive UI design**. Alongside app development, I am growing my DevOps foundation through **Linux system administration, Bash scripting, AWS EC2, Docker basics, GitHub Actions, and CI/CD concepts**.
 
